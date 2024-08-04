@@ -12,7 +12,7 @@ This project is a simple background changer application built with React. It all
 * User-Friendly Interface: Simple and intuitive design for ease of use.
 
 # Demo
-Include a link to a live demo or a GIF/screenshot showing the application in action.
+[Live Link](https://benevolent-bienenstitch-cdc63d.netlify.app/)
 
 # Technologies Used
 * React: Front-end library for building user interfaces.
